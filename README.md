@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @watchthepro50
 - 👀 I’m interested in code
-- 🌱 I’m currently learning python,javasript
+- 🌱 I’m currently learning python, javasript and go
